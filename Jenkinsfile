@@ -6,11 +6,11 @@ pipeline {
 	        MAJOR = '1'
 	        MINOR = '0'
 	        //Orchestrator Services
-	        UIPATH_ORCH_URL = ""
+	        UIPATH_ORCH_URL = "https://cloud.uipath.com/testixjtuofc/portal_"
 			
-	        UIPATH_ORCH_LOGICAL_NAME = "Replace it with orches. logical name"
-	        UIPATH_ORCH_TENANT_NAME = "Replace it with Your Tenant name"
-	        UIPATH_ORCH_FOLDER_NAME = "Name of the Folder"
+	        UIPATH_ORCH_LOGICAL_NAME = "testixjtuofc"
+	        UIPATH_ORCH_TENANT_NAME = "DefaultTenant"
+	        UIPATH_ORCH_FOLDER_NAME = "Jagriti"
 	    }
 	
 
